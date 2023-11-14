@@ -1,0 +1,22 @@
+{
+  "pensamentos":[
+    {
+      "id": 1,
+      "conteudo": "Curso Aprendendo Angular",
+      "autoria": "Rodrigo",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 1,
+      "conteudo": "Angular nao é tao ruin assim",
+      "autoria": "José",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 1,
+      "conteudo": "Mais ainda prefiro mobile",
+      "autoria": "Rodrigo",
+      "modelo": "modelo3"
+    }
+  ]
+}
