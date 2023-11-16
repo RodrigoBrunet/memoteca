@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+install the `json server` to run the backend folder in the project with the npm start `http://localhost:3000/pensamentos` command and test the crud functionalities  
 
 ## Code scaffolding
 
