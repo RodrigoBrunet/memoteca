@@ -10,11 +10,6 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
   styleUrls: ['./criar-pensamento.component.css'],
 })
 export class CriarPensamentoComponent implements OnInit {
-  pensamento: Pensamento = {
-    conteudo: '',
-    autoria: '',
-    modelo: 'modelo1',
-  };
 
   formulario!: FormGroup;
 
@@ -40,6 +35,7 @@ export class CriarPensamentoComponent implements OnInit {
         ]),
       ],
       modelo: ['modelo1'],
+      favorito: [false]
     });
   }
 

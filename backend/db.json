@@ -4,48 +4,56 @@
       "id": 1,
       "conteudo": "Curso Aprendendo Angular",
       "autoria": "Rodrigo",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Angular nao é tao ruin assim",
       "autoria": "José",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Mais ainda prefiro mobile",
       "autoria": "Rodrigo",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "novo pensamento",
       "autoria": "eu mesmo",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "teste de pensamento teste",
       "autoria": "Dev Angular",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "teste de pensamento 2",
       "autoria": "José das coves",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "teste de pensamento 3",
       "autoria": "Dev Angular 4",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "teste de pensamento 4",
       "autoria": "Dev Angular 4",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 8
     }
   ]
